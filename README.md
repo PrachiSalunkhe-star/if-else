@@ -4,8 +4,11 @@ in Python, the if-else statement is a fundamental control flow structure used fo
 
 >Syntax :-
       if condition:
+
     # Code block to execute if the condition is True
+    
       else:
+      
     # Code block to execute if the condition is False
 
 >Explanation:
